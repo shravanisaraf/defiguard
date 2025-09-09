@@ -1,0 +1,23 @@
+# Env files
+.env
+
+# Data
+data/raw/*
+!data/raw/labels.csv
+data/parquet/*
+realtime/*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
