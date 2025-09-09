@@ -4,6 +4,7 @@
 # Data
 data/raw/*
 !data/raw/labels.csv
+!data/raw/kaggle/transactions.csv
 data/parquet/*
 realtime/*
 
