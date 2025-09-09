@@ -1,0 +1,32 @@
+# Core
+pandas
+numpy
+pyarrow
+python-dotenv
+requests
+
+# Ethereum / Web3
+web3
+
+# ML / DL
+torch
+torch-geometric
+xgboost
+scikit-learn
+shap
+
+# Experiment tracking
+wandb
+
+# Serving
+fastapi
+uvicorn
+
+# Dashboard
+streamlit
+
+# Federated Learning
+flwr
+
+# Utils
+tqdm
